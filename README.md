@@ -69,15 +69,15 @@
 10. WAJP to take user input and print whether the number is perfect number or not.
 11. WAJP to print and count all the  perfect numbers up to 100.
 12. WAJP to take user input and print all n terms of Fibonacci series one by one.
-13.WAJP to take user input and print only nth term of Fibonacci series.
+13. WAJP to take user input and print only nth term of Fibonacci series.
 14. WAJP to take user input and print nth prime number.
 15. WAJP to take user input and print nth palindrome number.
-16.WAJP to take user input and print whether the number is dissarium number or not.
-17.WAJP to print and count all the dissarium numbers up to 1000.
-18.WAJP to take user input and print whether the number is Automorphic number or not.
-19.WAJP to print and count all the  Automorphic numbers up to 100.
-20.WAJP to take user input and print whether the number is Strong number or not.
-21.WAJP to print and count all the Strong numbers up to 100.
+16. WAJP to take user input and print whether the number is dissarium number or not.
+17. WAJP to print and count all the dissarium numbers up to 1000.
+18. WAJP to take user input and print whether the number is Automorphic number or not.
+19. WAJP to print and count all the  Automorphic numbers up to 100.
+20. WAJP to take user input and print whether the number is Strong number or not.
+21. WAJP to print and count all the Strong numbers up to 100.
 22. WAJP to swap two numbers a and b by using third variable.
 23. WAJP to swap two numbers a and b without using third variable.
 24. WAJP to convert a decimal number into binary number.
