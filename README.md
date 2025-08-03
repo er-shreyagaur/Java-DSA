@@ -11,8 +11,8 @@
 09. WAJP to  swap two index values of the array.
 10. WAJP to reverse each element of the array.
 11. WAJP to print each element of the array in reverse order.
-        a)By running loop from 0 index
-        b)By running loop from last index
+                a)By running loop from 0 index
+                b)By running loop from last index
 12. WAJP to reverse 1st half and 2nd half elements of array.
 13. WAJP to check array is a palindromic array or not. Return true or false accordingly.
 14. WAJP to remove an element from the certain position of the array.
@@ -86,3 +86,24 @@
 27. WAJP to convert an octal number into decimal number.
 28. WAJP to convert a decimal number into a hexadecimal number.
 29. WAJP to convert a hexadecimal number into a decimal number.
+
+
+## STRINGS
+
+1. WAJP to take a String input get length of String without using length() method 
+2. WAJP to take a String input and count all numeric characters in the String.
+3.  WAJP to take a String input and count all the characters without spaces in the String.
+4.  WAJP to take a String input and count all the characters(excluding any special characters).
+5.  WAJP to take a String input and count all the space characters, uppercase, lowercase, numeric, special characters in the String.
+6. WAJP to take a String input and count all the vowel characters in the String.
+7. WAJP to take a String input and print all the indexes where numeric characters are present in the String.
+8. WAJP to take a String input and print all the indexes where space characters are present in the String.
+9. WAJP to take a String input and replace all the space characters from _ in the String.
+                a)By using replace() method
+                b)Without using replace() method
+10. WAJP to check if a string contains only digits.
+11. WAJP to take a String input and print the sum of all the numeric characters in the String.
+12. WAJP to take a String input and print sum of all the even numeric characters in the String.
+13. Design a method which will accept a String input and return the reverse of the String.
+14. WAJP to take a String input and check whether the String is a Palindrome String or not(with reversing).
+
