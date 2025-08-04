@@ -106,4 +106,23 @@
 12. WAJP to take a String input and print sum of all the even numeric characters in the String.
 13. Design a method which will accept a String input and return the reverse of the String.
 14. WAJP to take a String input and check whether the String is a Palindrome String or not(with reversing).
-
+15. WAJP to take a String input and check whether the String is a Palindrome String or not(without reversing).
+16. https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
+17. WAJP to take a String input and remove all the duplicate characters.
+18. WAJP to take a String input and count total number of words in the String(Without using split method)
+19. Write a java program to print the biggest numeric character from the given string. Return -1 if there is no numeric characters.
+20. https://leetcode.com/problems/second-largest-digit-in-a-string/description/
+21. WAJP to print all the character of the String exactly once.
+22. WAJP to print the frequency of each character of the String.
+23. WAJP to print all the character which has appeared exactly once in the String.
+24. WAJP to print all the character which has appeared more than once in the String.
+25. WAJP to print the character which is appeared only once in the String. Given that only one character has appeared once in the string.
+26. WAJP to print the character which is appeared for the maximum times in the String.
+27. WAJP to print the character which is appeared for the maximum times in the String.
+If more than 1 character has appeared for maximum time, return the smallest character.
+28. WAJP to print the character which is appeared for the maximum times in the String. If more than 1 character has appeared for maximum time, return the biggest character.
+29. https://leetcode.com/problems/first-unique-character-in-a-string/description/
+30. Given a string of Size N containing digits from 0 to N where any one digit is missing. Print the missing digit. 
+31. https://leetcode.com/problems/valid-anagram/description/
+32. https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
+33. https://leetcode.com/problems/check-if-the-number-is-fascinating/description/
